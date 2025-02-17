@@ -1,3 +1,3 @@
-# DoneWithIt
+a# DoneWithIt
 
-An e-commerce app built with react native, built as practise
+An e-commerce app built with react native, built as practise, complete with authentaction, notifications and offline mode
